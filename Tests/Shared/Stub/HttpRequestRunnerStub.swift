@@ -1,4 +1,4 @@
-@testable import Common
+@testable import CioCommon
 import Foundation
 #if canImport(FoundationNetworking)
 import FoundationNetworking

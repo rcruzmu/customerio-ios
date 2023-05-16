@@ -1,4 +1,4 @@
-import Common
+import CioCommon
 import Foundation
 
 internal protocol CleanupRepository: AutoMockable {

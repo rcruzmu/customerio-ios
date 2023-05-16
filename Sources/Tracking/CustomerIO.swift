@@ -1,4 +1,4 @@
-import Common
+import CioCommon
 import Foundation
 
 public protocol CustomerIOInstance: AutoMockable {
