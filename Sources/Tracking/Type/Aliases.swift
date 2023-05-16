@@ -8,8 +8,8 @@ import Foundation
  in 'Common' as they are used in the 'Common' code.
  */
 
-public typealias Region = Common.Region
-public typealias CioLogLevel = Common.CioLogLevel
-public typealias CioSdkConfig = Common.SdkConfig
-public typealias CioNotificationServiceExtensionSdkConfig = Common.NotificationServiceExtensionSdkConfig
-public typealias Metric = Common.Metric
+public typealias Region = CioCommon.Region
+public typealias CioLogLevel = CioCommon.CioLogLevel
+public typealias CioSdkConfig = CioCommon.SdkConfig
+public typealias CioNotificationServiceExtensionSdkConfig = CioCommon.NotificationServiceExtensionSdkConfig
+public typealias Metric = CioCommon.Metric
